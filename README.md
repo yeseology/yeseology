@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @yeseology
-- 👀 Creator of yeseo bot
+- 👀 Creator of Yeseo bot
